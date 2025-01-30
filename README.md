@@ -1,4 +1,4 @@
-[![MasterHead](https://in.pinterest.com/pin/603693525047160507/)]()
+[![MasterHead](https://i.pinimg.com/1200x/31/d0/08/31d0086cdabff65064837f2d20903db1.jpg)]()
 <h1 align="center">Hi 👋, I'm Avinash Chaluvadi</h1>
 <h3 align="center">Optimization, AI/ML, and Full-Stack Development – Advanced algorithms, decision-support systems, and cloud-based
 solutions for real-world applications.</h3>
