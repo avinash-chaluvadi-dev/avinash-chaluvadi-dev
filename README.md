@@ -3,7 +3,7 @@
 <h3 align="center">Optimization, AI/ML, and Full-Stack Development – Advanced algorithms, decision-support systems, and cloud-based
 solutions for real-world applications.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-chaluvadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-chaluvadi-dev" /> </p>
 
