@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/avinash-chaluvadi-dev/avinash-chaluvadi-dev/blob/main/github_header.jpeg)]()
 <h1 align="center">Hi 👋, I'm Avinash Chaluvadi</h1>
 <h3 align="center">Optimization, AI/ML, and Full-Stack Development – Advanced algorithms, decision-support systems, and cloud-based solutions for real-world applications.</h3>
 
