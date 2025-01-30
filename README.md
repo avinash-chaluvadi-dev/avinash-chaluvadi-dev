@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-chaluvadi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-chaluvadi-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-chaluvadi-dev" alt="avinash-chaluvadi-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/achaluvadi" target="blank"><img src="https://img.shields.io/twitter/follow/achaluvadi?logo=twitter&style=for-the-badge" alt="achaluvadi" /></a> </p>
 
 - 🔭 I’m currently working on [Multi Opt Tabu Search](https://github.com/avinash-chaluvadi-dev/tabu-search)
